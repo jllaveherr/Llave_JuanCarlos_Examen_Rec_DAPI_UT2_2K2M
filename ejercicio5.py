@@ -14,4 +14,4 @@ def check_nif(nif):
     resto = int(num_DNI) % 23
     letra_corregida = nif_dict[str(resto)]
     return num_DNI + letra_corregida
-print(check_nif("73484610R"))
+print(check_nif("78398697S"))

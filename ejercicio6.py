@@ -19,4 +19,4 @@ def check_phone(num_telefono):
     num = "+" + prefijo + "-" + num.replace("-", "")
 
     return num, pais
-print(check_phone("(351)12345678"))
+print(check_phone("(49)646-550448"))

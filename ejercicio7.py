@@ -8,4 +8,4 @@ def calculate_bill(multas_radar, multas_ITV, multas_estupefacientes):
     """
     bill = int(multas_radar) + int(multas_estupefacientes) + int(multas_ITV)
     return bill
-print(calculate_bill(50, 500, 5000))
+print(calculate_bill(36, 279, 108))

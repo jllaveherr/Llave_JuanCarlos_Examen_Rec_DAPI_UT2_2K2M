@@ -5,4 +5,4 @@ def check_username(nombre_apellido):
     :return: nos proporciona un str con los datos corregidos
     """
     return nombre_apellido.title()
-print(check_username("Juan carlos llAVe"))
+print(check_username("enRIQUE CanET"))
